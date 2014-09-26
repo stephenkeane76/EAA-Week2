@@ -1,0 +1,148 @@
+ls -ltr
+sudo gedit /etc/cntlm.conf 
+bg
+cd
+find . -name *.crt -print 2>/dev/null
+cd Downloads/
+ls
+vi eduroam-linux-IoTT_Linux.sh 
+cd
+
+sudo gedit /etc/cntlm.conf 
+sudo gedit /etc/cntlm.conf 
+bg
+cntlm -M
+cntlm -H
+cntlm -H
+cntlm -H
+cntlm -H
+sudo service cntlm restart
+cntlm -H
+cntlm -H cntlm.conf
+cntlm cntlm.conf -H
+cntlm -H
+cntlm -H www.sun.com
+cntlm -H
+cntlm -H
+ls /etc
+sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+cntlm -H
+ls
+sudo apt-get remove cntlm
+sudo apt-get install cntlm
+sudo apt-get remove cntlm
+sudo apt-get install cntlm
+sudo service start cntlm
+sudo apt-get install cntlm
+sudo service start 
+sudo service cntlm start
+sudo service cntlm start -v
+sudo apt-get remove cntlm
+sudo apt-get install cntlm
+sudo apt-get remove cntlm
+sudo apt-get install cntlm
+sudo apt-get remove cntlm
+find / -name cntlm.conf -print
+find / -name cntlm.conf -print 2>/dev/nul
+find / -name cntlm.conf -print 2>/dev/null
+sudo apt-get remove cntlm
+sudo apt-get install cntlm
+sudo apt-get install cntlm
+ls /etc/cntlm.conf
+sudo apt-get purge cntlm
+sudo apt-get install cntlm
+find / -name cntlm.conf -print 2>/dev/null
+cntlm -H
+sudo vi /etc/cntlm.conf
+cntlm -H
+fg
+sudo service cntlm restart
+vi eduroam-linux-IoTT_Linux.sh 
+sudo vi /etc/cntlm.conf
+cntlm -M
+cntlm -H -c /etc/cntlm.conf
+cntlm -c /etc/cntlm.conf -H
+cntlm -H
+cntlm -c /etc/cntlm.conf -H
+cntlm -c /etc/cntlm.conf 
+cntlm -H -u jburns@stf
+sudo vi /etc/cntlm.conf
+sudo service cntlm restart
+sudo vi /etc/cntlm.conf
+sudo service cntlm restart
+sudo service cntlm restart
+sudo service cntlm restart
+ls -ltr
+rm *.cer
+ls
+chef
+ls /opt
+/opt/chef/bin/chef-solo
+sudo shutdown -r now
+ls -ltr
+vi .profile 
+pwd
+cd /var
+pwd
+cd
+pwd
+ls
+ls -F
+history
+sudo service cntlm restart
+ls -a
+ls
+cp .bash_history myhistory.txt
+ls
+more myhistory.txt 
+gedit myhistory.txt 
+ls
+ls -l myhistory.txt
+ls -l
+history
+sudo service cntlm restart
+history 
+history > history.txt
+ls -ltr
+cd /
+ls
+ls -F
+cd
+pwd
+ls -l
+mkdir test
+ls -l
+cd test
+pwd
+history
+cd
+cd /
+cd bin
+cd
+cd /bin
+pwd
+ls -l
+cd
+pwd
+history
+cd /bin/
+ls -l  > out.txt
+ls -l  > /home/mint/out.txt
+cd
+more out.txt 
+ls -l /bin  > out2.txt
+ls -l
+diff out2.txt out.txt
+history > myhistory.txt
+more myhistory.txt
+export GIT_SSL_NO_VERIFY=1
+export http_proxy=http://localhost:3128
+history
+echo $RUN
+export RUN=5
+echo $RUN
+export RUN=
+echo $RUN
+
+export RUN=5
+echo $RUN
